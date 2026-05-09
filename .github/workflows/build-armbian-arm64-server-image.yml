@@ -69,7 +69,7 @@ on:
           - firefly-jd4
           - firefly-rk3399
           - fmx1-pro
-          - fmx1-pro-b
+          - s905d_fmx1-pro-b
           - gea-6319
           - gzpeite-p01
           - h28k
